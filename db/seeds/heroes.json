@@ -1,0 +1,170 @@
+[
+  {
+    "real_name": "antimage",
+    "species": "Human",
+    "universe": "DC",
+    "name": "Anti-Mage"
+  },
+  {
+    "real_name": "axe",
+    "species": "Human",
+    "universe": "DC",
+    "name": "Axe"
+  },
+  {
+    "real_name": "bane",
+    "species": "Human",
+    "universe": "DC",
+    "name": "Bane"
+  },
+  {
+    "real_name": "bloodseeker",
+    "species": "Human",
+    "universe": "DC",
+    "name": "Bloodseeker"
+  },
+  {
+    "real_name": "crystal_maiden",
+    "species": "Human",
+    "universe": "DC",
+    "name": "Crystal Maiden"
+  },
+  {
+    "real_name": "drow_ranger",
+    "species": "Human",
+    "universe": "WoW",
+    "name": "Drow Ranger"
+  },
+  {
+    "real_name": "earthshaker",
+    "species": "Human",
+    "universe": "WoW",
+    "name": "Earthshaker"
+  },
+  {
+    "real_name": "juggernaut",
+    "species": "Human",
+    "universe": "WoW",
+    "name": "Juggernaut"
+  },
+  {
+    "real_name": "mirana",
+    "species": "Human",
+    "universe": "WoW",
+    "name": "Mirana"
+  },
+  {
+    "real_name": "nevermore",
+    "species": "Human",
+    "universe": "WoW",
+    "name": "Shadow Fiend"
+  },
+  {
+    "real_name": "morphling",
+    "species": "Human",
+    "universe": "Marvel",
+    "name": "Morphling"
+  },
+  {
+    "real_name": "phantom_lancer",
+    "species": "Human",
+    "universe": "Marvel",
+    "name": "Phantom Lancer"
+  },
+  {
+    "real_name": "puck",
+    "species": "Human",
+    "universe": "Marvel",
+    "name": "Puck"
+  },
+  {
+    "real_name": "pudge",
+    "species": "Human",
+    "universe": "Marvel",
+    "name": "Pudge"
+  },
+  {
+    "real_name": "razor",
+    "species": "Human",
+    "universe": "Marvel",
+    "name": "Razor"
+  },
+  {
+    "real_name": "sand_king",
+    "species": "Human",
+    "universe": "Marvel",
+    "name": "Sand King"
+  },
+  {
+    "real_name": "storm_spirit",
+    "species": "Human",
+    "universe": "StarCraft",
+    "name": "Storm Spirit"
+  },
+  {
+    "real_name": "sven",
+    "species": "Human",
+    "universe": "StarCraft",
+    "name": "Sven"
+  },
+  {
+    "real_name": "tiny",
+    "species": "Human",
+    "universe": "StarCraft",
+    "name": "Tiny"
+  },
+  {
+    "real_name": "vengefulspirit",
+    "species": "Human",
+    "universe": "StarCraft",
+    "name": "Vengeful Spirit"
+  },
+  {
+    "real_name": "windrunner",
+    "universe": "StarCraft",
+    "species": "Human",
+    "name": "Windranger"
+  },
+  {
+    "real_name": "zuus",
+    "species": "Human",
+    "universe": "StarCraft",
+    "name": "Zeus"
+  },
+  {
+    "real_name": "kunkka",
+    "species": "Human",
+    "universe": "StarCraft",
+    "name": "Kunkka"
+  },
+  {
+    "real_name": "lina",
+    "species": "Human",
+    "universe": "God Of War",
+    "name": "Lina"
+  },
+  {
+    "real_name": "lich",
+    "universe": "God Of War",
+    "species": "Human",
+    "name": "Lich"
+  },
+  {
+    "real_name": "lion",
+    "species": "Human",
+    "universe": "God Of War",
+    "name": "Lion"
+  },
+  {
+    "real_name": "shadow_shaman",
+    "species": "Human",
+    "universe": "God Of War",
+    "name": "Shadow Shaman"
+  },
+  {
+    "real_name": "slardar",
+    "species": "Human",
+    "universe": "God Of War",
+    "name": "Slardar"
+  }
+]

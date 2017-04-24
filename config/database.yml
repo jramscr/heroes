@@ -1,0 +1,16 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+
+development:
+  <<: *default
+  database: heroes_development
+
+test:
+  <<: *default
+  database: heroes_test
+
+production:
+  <<: *default
+  database: heroes_production
+
